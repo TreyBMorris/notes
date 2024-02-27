@@ -4,7 +4,7 @@ My repository full of notes of things I am personally learning, studying, or thi
 #### Table of Contents
 - [What is this?](#what-is-this)
 - [Who can use this?](#who-can-use-this)
-- [Linux]()
+- [Linux](/linux/linux.md)
 
 
 
