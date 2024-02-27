@@ -2,8 +2,8 @@
 My repository full of notes of things I am personally learning, studying, or things I find interesting. :)
 
 #### Table of Contents
-- [What is this?](#what-is-this-?)
-- [Who can use this?](#who-can-use-this-?)
+- [What is this?](#what-is-this)
+- [Who can use this?](#who-can-use-this)
 - [Linux]()
 
 
