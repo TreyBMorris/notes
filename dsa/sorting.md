@@ -1,5 +1,5 @@
 # Sorting Algorithms
-[Back](./notes/README.md)
+[Back](./dsa.md)
 ## Bubble Sort
 Bubble sort is a sorting algorithm, where the algorithm iterates through a list of numbers, comparing each number to the next number, and swap them accordingly. Python and Java Examples below. The complexity of bubble sort is O(n<sup>2</sup>).
 ```Python
