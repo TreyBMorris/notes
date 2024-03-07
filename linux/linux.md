@@ -1,4 +1,4 @@
 # Linux Main
-[Back to main](./main/README.md)
+[Back to main](https://github.com/TreyBMorris/notes)
 #### 
 - [Useful Linux Commands](/linux/linux-commands.md)
