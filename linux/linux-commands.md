@@ -1,4 +1,5 @@
-# Useful Commands for Linux 
+# Useful Commands for Linux
+[Back to main](README.md)
 | Command        | Description                                           | 
 | -------------- | ----------------------------------------------------- |
 | `cd`           | Command to change the directory                       | 
