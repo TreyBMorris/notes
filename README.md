@@ -1,12 +1,13 @@
 # notes
 My repository full of notes of things I am personally learning, studying, or things I find interesting. :)
 
-#### Table of Contents
+## README Table of Contents
 - [What is this?](#what-is-this)
 - [Who can use this?](#who-can-use-this)
+
+## Repository Table of Contents
 - [Linux](/linux/linux.md)
 - [Data Structures and Algorithms](/dsa/dsa.md)
-
 
 
 ## What is this?
