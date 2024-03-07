@@ -1,4 +1,4 @@
 # Data Structures and Algorithms Main
-[Back to main](./notes/README.md)
+[Back to main](./main/README.md)
 #### 
 - [Sorting Algorithms](/dsa/sorting.md)
