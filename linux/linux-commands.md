@@ -1,5 +1,5 @@
 # Useful Commands for Linux
-[Back to main](./README.md)
+[Back to main](notes/README.md)
 | Command        | Description                                           | 
 | -------------- | ----------------------------------------------------- |
 | `cd`           | Command to change the directory                       | 

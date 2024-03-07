@@ -1,4 +1,4 @@
 # Linux Main
-[Back to main](README.md)
+[Back to main](notes/README.md)
 #### 
 - [Useful Linux Commands](/linux/linux-commands.md)
