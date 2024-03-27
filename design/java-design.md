@@ -18,7 +18,6 @@ Our product interface.
 ```Java
 public interface Product
 {
-
     void displayProduct();
 }
 ```
