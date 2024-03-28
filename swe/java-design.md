@@ -1,12 +1,11 @@
 # Java Design Patterns
 [Back](./design.md)
 
+## What are design patterns?
+Design patterns in the world of Software Engineering are reusable solutions that address a problem or various problems. To put it simply, patterns are a "blueprint" to solve problems in our applications.
+
 #### Jump to a Section
 - [Factory Pattern](#factory-pattern)
-
-
-
-
 
 
 ## Factory Pattern
@@ -85,3 +84,42 @@ public class Main
     }
 }
 ```
+
+## Builder Pattern
+Builder is a design pattern that lets you construct objects step by step. This allows one to produce objects that have different types and properties, but use the same construction code.
+
+Below is a quick example of a builder interface in Java
+```Java
+public interface Builder
+{
+    void setProductType(ProductType type);
+    void setProductName(String productName);
+}
+
+```
+
+From here, we can implement this interface to classes that will build our objects, like so.
+
+```Java
+public class ProductBuilder implements Builder
+{
+    private ProductType type;
+    private String productName;
+
+    public void setProductType(ProductType type)
+    {
+        this.type = type;
+    }
+    
+    @Override
+    public void setProductName(String productName)
+    {
+        this.productName = productName;
+    }
+
+}
+```
+
+#### References:
+https://refactoring.guru/design-patterns/java
+https://medium.com/@saygiligozde/design-patterns-in-java-5251032ca244
