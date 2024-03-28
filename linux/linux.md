@@ -3,6 +3,13 @@
 #### 
 - [Cheatsheet of Useful Linux Commands](/linux/linux-commands.md)
 
+#### Jump to a Section
+- [What is Linux?](#what-is-linux)
+- [Kernel and Shell](#kernel-and-shell)
+- [Linux Distributions](#linux-distributions)
+- [How do I install Software on Linux?](#how-do-i-install-software-on-linux)
+- [How do I update my operating system?](#how-do-i-update-my-operating-system)
+
 
 # What is Linux?
 
