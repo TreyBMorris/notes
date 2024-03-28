@@ -8,7 +8,7 @@ My repository full of notes of things I am personally learning, studying, or thi
 #### Repository Table of Contents
 - [Linux](/linux/linux.md)
 - [Data Structures and Algorithms](/dsa/dsa.md)
-- [Software Design Patterns](/design/design.md)
+- [Software Engineering Concepts](/swe/swe.md)
 
 
 ## What is this?

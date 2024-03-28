@@ -1,4 +1,4 @@
-# Design Patterns for Software Engineering Main
+# Software Engineering Main
 [Back to main](https://github.com/TreyBMorris/notes)
 #### 
 - [Java Design](/design/java-design.md)
