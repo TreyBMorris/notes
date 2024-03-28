@@ -1,5 +1,6 @@
 # Useful Commands for Linux
 [Back](./linux.md)
+
 | Command        | Description                                           | 
 | -------------- | ----------------------------------------------------- |
 | `cd`           | Command to change the directory                       | 
@@ -9,3 +10,5 @@
 | `cat`          | Concatinates the contents of the file/s               |
 | `echo`         | Displays a line of text                               |
 | `clear` or `Ctrl + L` | Clears the screen                              |
+| `sudo`         | Runs the command with admin privileges                |
+| `touch`        | Creates an empty file                                 |    

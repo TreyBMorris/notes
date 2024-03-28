@@ -22,3 +22,22 @@ Here is a list of some popular distributions
 - [Debian](https://www.debian.org/) 
 - [Linux Mint](https://linuxmint.com/)
 - [Fedora](https://fedoraproject.org/)
+
+
+## How do I install software on Linux?
+Installing software on Linux depends on the package manager specific to your linux distribution. For our example, we will be using the Debian and Ubuntu package manager "apt". To install vim, a popular text editor for linux, we would use the following command.
+```bash
+sudo apt install vim
+```
+
+## How do I update my operating system?
+We can use the following commands to update our packages. Again, for this example we will use "apt" to update the packages.
+```bash
+sudo apt update
+sudo apt upgrade
+```
+For an explination of what sudo is, please see the useful linux commands cheetsheet link at the top.
+
+
+Resources
+https://www.geeksforgeeks.org/introduction-to-linux-operating-system/
