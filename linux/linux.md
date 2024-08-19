@@ -25,10 +25,10 @@ A linux distribution is an operating system that provides a bundle of software t
 <br />
 Here is a list of some popular distributions
 - [Ubuntu](https://ubuntu.com/) Probably the most popular distribution
-- [Arch Linux](https://archlinux.org/) My personal favorite
+- [Arch Linux](https://archlinux.org/) 
 - [Debian](https://www.debian.org/) 
 - [Linux Mint](https://linuxmint.com/)
-- [Fedora](https://fedoraproject.org/)
+- [Fedora](https://fedoraproject.org/) What I am currently using. With KDE plasma.
 
 
 ## How do I install software on Linux?
@@ -43,7 +43,7 @@ We can use the following commands to update our packages. Again, for this exampl
 sudo apt update
 sudo apt upgrade
 ```
-For an explination of what sudo is, please see the useful linux commands cheetsheet link at the top.
+For an explnation of what sudo is, please see the useful linux commands cheatsheet link at the top.
 
 
 Resources
