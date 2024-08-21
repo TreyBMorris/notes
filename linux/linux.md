@@ -1,7 +1,15 @@
 # Linux Main
 [Back to main](https://github.com/TreyBMorris/notes)
+## Table of Contents
+- [Linux Overview](./linux.md)
+- [What is an OS?](./os-notes.md)
+- [System Call](./syscall.md)
+
 #### 
 - [Cheatsheet of Useful Linux Commands](/linux/linux-commands.md)
+
+
+
 
 #### Jump to a Section
 - [What is Linux?](#what-is-linux)
