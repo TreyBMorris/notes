@@ -3,4 +3,4 @@
 ## What is C?
 
 ## Table Directory
-- [GCC](./c-programming/gcc.md)
+- [GCC](./gcc.md)
