@@ -4,12 +4,11 @@
 - [Linux Overview](./linux.md)
 - [What is an OS?](./os-notes.md)
 - [System Call](./syscall.md)
+- [Thread](./thread.md)
+- [Lock](./lock.md)
+- [PThread](./pthread.md)
 
-#### 
-- [Cheatsheet of Useful Linux Commands](/linux/linux-commands.md)
-
-
-
+#### [Cheatsheet of Useful Linux Commands](/linux/linux-commands.md)
 
 #### Jump to a Section
 - [What is Linux?](#what-is-linux)
