@@ -1,4 +1,0 @@
-# Concepts of Programming Languages 
-[Back to main](https://github.com/TreyBMorris/notes)
-## Table of Contents
-- [Syntax](./syntax.md)

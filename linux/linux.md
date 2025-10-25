@@ -18,13 +18,15 @@
 - [How do I update my operating system?](#how-do-i-update-my-operating-system)
 
 
+#### This might be slightly out of date, I don't update this section as much but it still has important information.
+
 # What is Linux?
 
 Linux is an open source operating system, first developed by Linus Torvalds.
 In the world of Computer Science, Software Engineering, and Information Technology, Linux is something that is important to understand the concepts of. 
 
 ## Kernel and Shell
-The kernel is the absolute most basic component of the operating system, which acts as the communicator between the hardware and the software of your computer. Any commands entered by the user are processed by the kernel through the shell and are returned back to the user. The shell is a program where a user inputs commands or instructions into the operating system. This acts as an interface that reads and processes comands from the user, and returns them back to the user. One of the most popular and notable shells in Linux is the Bourne Again Shell, or most commonly referred to as Bash. For those who are Windows users, a common comparison to Bash would be the PowerShell. In macOS, we also commonly use Bash.
+The kernel is the absolute most basic component of the operating system, which acts as the communicator between the hardware and the software of your computer. Any commands entered by the user are processed by the kernel through the shell and are returned back to the user. The shell is a program where a user inputs commands or instructions into the operating system. This acts as an interface that reads and processes commands from the user, and returns them back to the user. One of the most popular and notable shells in Linux is the Bourne Again Shell, or most commonly referred to as Bash. For those who are Windows users, a common comparison to Bash would be the PowerShell. In macOS, we also commonly use Bash.
 
 
 ## Linux Distributions
@@ -35,22 +37,10 @@ Here is a list of some popular distributions
 - [Arch Linux](https://archlinux.org/) 
 - [Debian](https://www.debian.org/) 
 - [Linux Mint](https://linuxmint.com/)
-- [Fedora](https://fedoraproject.org/) What I am currently using. With KDE plasma.
+- [Fedora](https://fedoraproject.org/) 
+- [Omarchy](https://omarchy.org/) What I currently use. 
 
 
-## How do I install software on Linux?
-Installing software on Linux depends on the package manager specific to your linux distribution. For our example, we will be using the Debian and Ubuntu package manager "apt". To install vim, a popular text editor for linux, we would use the following command.
-```bash
-sudo apt install vim
-```
-
-## How do I update my operating system?
-We can use the following commands to update our packages. Again, for this example we will use "apt" to update the packages.
-```bash
-sudo apt update
-sudo apt upgrade
-```
-For an explnation of what sudo is, please see the useful linux commands cheatsheet link at the top.
 
 
 Resources
