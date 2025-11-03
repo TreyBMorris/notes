@@ -31,3 +31,7 @@
 - Structured programming recursively decomposes a program
   into a set of small provable functions.
 - This is why functional decomposition is still a great practice.
+
+## Object-Oriented programming
+
+- Encapsulation, Inheritance, and Polymorphism
